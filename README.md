@@ -21,8 +21,8 @@
 * Install NodeJS [`Klik Disini`](https://nodejs.org/en/download)
 
 ```bash
-git clone https://github.com/Pann09/Pterodactyl-Whatsapp-Bot
-cd Pterodactyl-Whatsapp-Bot
+git clone https://github.com/gaqqunone/WhatsappBOTpanelJTB
+cd WhatsappBOTpanelJTB
 npm install
 npm update
 node .
@@ -37,8 +37,8 @@ apt install nodejs
 ```
 Run Program:
 ```bash
-git clone https://github.com/Pann09/Pterodactyl-Whatsapp-Bot
-cd Pterodactyl-Whatsapp-Bot
+git clone https://github.com/gaqqunone/WhatsappBOTpanelJTB
+cd WhatsappBOTpanelJTB
 npm install
 npm update
 node .
@@ -47,15 +47,15 @@ node .
 
 ## UNTUK USER TERMUX
 ```bash
-git clone https://github.com/Pann09/Pterodactyl-Whatsapp-Bot
-cd Pterodactyl-Whatsapp-Bot
+git clone https://github.com/gaqqunone/WhatsappBOTpanelJTB
+cd WhatsappBOTpanelJTB
 npm install
 npm update
 node .
 ```
 ---------
 ## Edit file
-- Edit Nomor Owner dan Pterodactyl Api [disini](https://github.com/Pann09/Pterodactyl-Whatsapp-Bot/blob/main/cpsetting/cpsettings.js)
+- Edit Nomor Owner dan Pterodactyl Api [disini](https://github.com/gaqqunone/WhatsappBOTpanelJTB/blob/main/cpsetting/cpsettings.js)
 
 ---------
 
